@@ -1,2 +1,2 @@
 # Rapido
-;omigotes rápidos
+;Monigotes rápidos
